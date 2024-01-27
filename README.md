@@ -43,14 +43,14 @@ Firebase is the database used for this project. Its Real Time Database ensures s
 
 <h3> > List of Tables </h3>
 
-1. users
-2. wishlists
-3. reviews
-4. historicals
-5. beaches
-6. restaurants
-7. historicals
-8. promotions
+ 1. users
+ 2. wishlists
+ 3. reviews
+ 4. historicals
+ 5. beaches
+ 6. restaurants
+ 7. historicals
+ 8. promotions
 
 <h2> REST API </h2>
 There are two external REST API used in this project:
