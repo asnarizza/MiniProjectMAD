@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549540846597",
+    "project_id": "ws-auth-3c45a",
+    "storage_bucket": "ws-auth-3c45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549540846597:android:ca744dc5d0f869a802d06c",
+        "android_client_info": {
+          "package_name": "com.example.melaka_wanderlust"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMWob4UKda6dTRR4YXliN7O90Y9VFzDdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
